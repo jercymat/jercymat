@@ -6,6 +6,13 @@ This is **Han-Hsuan Lin** from **Taipei, Taiwan**.
 * **Full-Stack Developer Intern** working in Austin, Texas
 * Design enthusiast working on **UI/UX** and **Graphic Design**!
 
+#### Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-hsuan-lin/)
+[![Linkedin Badge](https://img.shields.io/badge/email-hhl@utexas.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhl@utexas.edu)
+
+### Language and tools
+
 #### As a developer
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -38,8 +45,3 @@ This is **Han-Hsuan Lin** from **Taipei, Taiwan**.
 ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
-#### Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-hsuan-lin/)
-[![Linkedin Badge](https://img.shields.io/badge/email-hhl@utexas.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhl@utexas.edu)
