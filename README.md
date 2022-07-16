@@ -8,11 +8,6 @@ This is **Han-Hsuan Lin** from **Taipei, Taiwan**.
 * **Full-Stack Developer Intern** working in Austin, Texas
 * Design enthusiast working on **UI/UX** and **Graphic Design**!
 
-#### Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-hsuan-lin/)
-[![Linkedin Badge](https://img.shields.io/badge/email-hhl@utexas.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhl@utexas.edu)
-
 #### As a developer
 
 * I write `Javascript`, `Typescript`, `Python`, `Kotlin`, `SASS` codes
@@ -21,10 +16,13 @@ This is **Han-Hsuan Lin** from **Taipei, Taiwan**.
 
 #### As a designer
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/160px-Figma-logo.svg.png" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/246px-Adobe_XD_CC_icon.svg.png" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/246px-Adobe_Illustrator_CC_icon.svg.png" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/246px-Adobe_Photoshop_CC_icon.svg.png" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/246px-Adobe_InDesign_CC_icon.svg.png" height="48"/>
 
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+#### Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-hsuan-lin/)
+[![Linkedin Badge](https://img.shields.io/badge/email-hhl@utexas.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhl@utexas.edu)
