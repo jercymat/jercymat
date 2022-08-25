@@ -5,7 +5,7 @@
 This is **Han-Hsuan Lin** from **Taipei, Taiwan**.
 
 * Master student at **UT Austin**
-* **Full-Stack Developer Intern** working in Austin, Texas
+* **Full-Stack Developer Intern** @ **Office Depot** working in Austin, Texas
 * Design enthusiast working on **UI/UX** and **Graphic Design**!
 * 📎 [My Resume](https://drive.google.com/file/d/19pQVISXak_W5picLKahFt0GWw-B753dq/view?usp=sharing)
 * 🗃 [Portfolio](https://drive.google.com/file/d/1tQqqHvkx_5R2viL35R9xvtoRSx0qCyYa/view?usp=sharing)
