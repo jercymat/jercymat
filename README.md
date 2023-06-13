@@ -2,28 +2,34 @@
 
 ### Howdy 👋🤘
 
-This is **Han-Hsuan Lin** from **Taipei, Taiwan**.
+This is **Han-Hsuan Lin** from **Taiwan**, based in **Austin, Texas**.
 
-* Master student at **UT Austin**
-* **Full-Stack Developer Intern** @ **Office Depot** working in Austin, Texas
-* Design enthusiast working on **UI/UX** and **Graphic Design**!
+* M.S. in Information Science at **UT Austin**
+* Incoming **Full-Stack Developer** @ **Office Depot**
+* I develop **Web Application**, **Backend Services**, and **Android Apps**
 * 📎 [My Resume](https://drive.google.com/file/d/19pQVISXak_W5picLKahFt0GWw-B753dq/view?usp=sharing)
 * 🗃 [Portfolio](https://drive.google.com/file/d/1tQqqHvkx_5R2viL35R9xvtoRSx0qCyYa/view?usp=sharing)
 
 #### Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=121612&logo=linkedin&logoColor=)](https://www.linkedin.com/in/han-hsuan-lin/)
-[![Linkedin Badge](https://img.shields.io/badge/email-hhl@utexas.edu-D14836?style=for-the-badge&labelColor=121612&logo=gmail&logoColor=white)](mailto:hhl@utexas.edu)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=121612&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-hsuan-lin/)
+[![Email Badge](https://img.shields.io/badge/email-hhl@utexas.edu-D14836?style=for-the-badge&labelColor=121612&logo=gmail&logoColor=white)](mailto:hhl@utexas.edu)
 
 #### Technologies
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![SASS Badge](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)
+[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=white)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
 [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Solidity Badge](https://img.shields.io/badge/-Solidity-DDDDDD?style=for-the-badge&labelColor=black&logo=solidity&logoColor=DDDDDD)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
 [![MS SQL Badge](https://img.shields.io/badge/-MS&nbsp;SQL-CC2927?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=CC2927)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4EA94B)](#)
 
 #### Tools
 [![Visual Studio Code Badge](https://img.shields.io/badge/-VS&nbsp;Code-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)](#)
