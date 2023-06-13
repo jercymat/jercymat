@@ -7,7 +7,7 @@ This is **Han-Hsuan Lin** from **Taiwan**, based in **Austin, Texas**.
 * M.S. in Information Science at **UT Austin**
 * Incoming **Full-Stack Developer** @ **Office Depot**
 * I develop **Web Application**, **Backend Services**, and **Android Apps**
-* 📎 [My Resume](https://drive.google.com/file/d/19pQVISXak_W5picLKahFt0GWw-B753dq/view?usp=sharing)
+* 📎 [My Resume](https://drive.google.com/file/d/1etnOLktRuZdh71AMQK_pNAxrA-KHZ1np/view?usp=sharing)
 * 🗃 [Portfolio](https://drive.google.com/file/d/1tQqqHvkx_5R2viL35R9xvtoRSx0qCyYa/view?usp=sharing)
 
 #### Reach me out!
