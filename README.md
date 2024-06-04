@@ -2,10 +2,10 @@
 
 ### Howdy 👋🤘
 
-This is **Han-Hsuan Lin** from **Taiwan**, based in **Austin, Texas**.
+This is **Han-Hsuan Lin** based in **Austin, TX, United States**.
 
+* **Software Engineere** @ **Office Depot**
 * M.S. in Information Science at **UT Austin**
-* **Full-Stack Developer** @ **Office Depot**
 * I develop **Web Application**, **Backend Services**, and **Android Apps**
 * 📎 [My Resume](https://drive.google.com/file/d/1etnOLktRuZdh71AMQK_pNAxrA-KHZ1np/view?usp=sharing)
 * 🗃 [Portfolio](https://drive.google.com/file/d/1tQqqHvkx_5R2viL35R9xvtoRSx0qCyYa/view?usp=sharing)
@@ -13,7 +13,7 @@ This is **Han-Hsuan Lin** from **Taiwan**, based in **Austin, Texas**.
 #### Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=121612&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-hsuan-lin/)
-[![Email Badge](https://img.shields.io/badge/email-hhl@utexas.edu-D14836?style=for-the-badge&labelColor=121612&logo=gmail&logoColor=white)](mailto:hhl@utexas.edu)
+[![Email Badge](https://img.shields.io/badge/email-hanhsuan.l@gmail.com-D14836?style=for-the-badge&labelColor=121612&logo=gmail&logoColor=white)](mailto:hanhsuan.l@gmail.com)
 
 #### Technologies
 
@@ -23,13 +23,15 @@ This is **Han-Hsuan Lin** from **Taiwan**, based in **Austin, Texas**.
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
 [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
-[![Solidity Badge](https://img.shields.io/badge/-Solidity-DDDDDD?style=for-the-badge&labelColor=black&logo=solidity&logoColor=DDDDDD)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Ansible Badge](https://img.shields.io/badge/-Ansible-A60000?style=for-the-badge&labelColor=black&logo=ansible&logoColor=A60000)](#)
 
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
 [![MS SQL Badge](https://img.shields.io/badge/-MS&nbsp;SQL-CC2927?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=CC2927)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4EA94B)](#)
+[![Snowflake Badge](https://img.shields.io/badge/-Snowflake-35AEDD?style=for-the-badge&labelColor=black&logo=snowflake&logoColor=35AEDD)](#)
+[![Splunk Badge](https://img.shields.io/badge/-Splunk-4EA94B?style=for-the-badge&labelColor=black&logo=splunk&logoColor=4EA94B)](#)
 
 #### Tools
 [![Visual Studio Code Badge](https://img.shields.io/badge/-VS&nbsp;Code-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)](#)
