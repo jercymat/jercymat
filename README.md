@@ -4,7 +4,7 @@
 
 This is **Han-Hsuan Lin** based in **Austin, TX, United States**.
 
-* **Software Engineere** @ **Office Depot**
+* **Software Engineer** @ **Office Depot**
 * M.S. in Information Science at **UT Austin**
 * I develop **Web Application**, **Backend Services**, and **Android Apps**
 * 📎 [My Resume](https://drive.google.com/file/d/1etnOLktRuZdh71AMQK_pNAxrA-KHZ1np/view?usp=sharing)
