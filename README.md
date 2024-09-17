@@ -2,7 +2,7 @@
 
 ### Howdy 👋🤘
 
-This is **Han-Hsuan Lin** based in **Austin, TX, United States**.
+This is **Han-Hsuan Lin**!.
 
 * **Software Engineer** @ **RF Technologies**
 * M.S. in Information Science at **UT Austin**
