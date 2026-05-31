@@ -2,7 +2,7 @@
 
 ### Howdy 👋🤘
 
-This is **Han-Hsuan Lin**!.
+This is **Han-Hsuan Lin** from **Boston**!.
 
 * **Software Engineer** @ **Google**
 * M.S. in Information Science at **UT Austin**
@@ -10,7 +10,7 @@ This is **Han-Hsuan Lin**!.
 * 📎 [My Resume](https://drive.google.com/file/d/1etnOLktRuZdh71AMQK_pNAxrA-KHZ1np/view?usp=sharing)
 * 🗃 [Portfolio](https://drive.google.com/file/d/1tQqqHvkx_5R2viL35R9xvtoRSx0qCyYa/view?usp=sharing)
 
-#### Reach me out!
+#### Say Hello to Me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=121612&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-hsuan-lin/)
 [![Email Badge](https://img.shields.io/badge/email-hanhsuan.l@gmail.com-D14836?style=for-the-badge&labelColor=121612&logo=gmail&logoColor=white)](mailto:hanhsuan.l@gmail.com)
@@ -39,9 +39,8 @@ This is **Han-Hsuan Lin**!.
 [![Android Studio Badge](https://img.shields.io/badge/-Android&nbsp;Studio-27a861?style=for-the-badge&labelColor=black&logo=androidstudio&logoColor=3DDC84)](#)
 
 #### As a designer
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/160px-Figma-logo.svg.png" align="left" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/246px-Adobe_XD_CC_icon.svg.png" align="left" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/246px-Adobe_Illustrator_CC_icon.svg.png" align="left" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/246px-Adobe_Photoshop_CC_icon.svg.png" align="left" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/246px-Adobe_InDesign_CC_icon.svg.png" align="left" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/500px-Figma-logo.svg.png" align="left" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/500px-Adobe_XD_CC_icon.svg.png" align="left" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/500px-Adobe_Illustrator_CC_icon.svg.png" align="left" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" align="left" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/500px-Adobe_InDesign_CC_icon.svg.png" align="left" height="48"/>
